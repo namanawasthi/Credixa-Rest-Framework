@@ -1,0 +1,1 @@
+web: gunicorn credicxo_task.wsgi
